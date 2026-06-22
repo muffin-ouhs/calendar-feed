@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//muffin-ouhs//Calendar Feed//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:My Calendar Feed
+X-WR-CALDESC:Public calendar subscription maintained on GitHub
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:example-20260701T100000@muffin-ouhs.github.io
+DTSTAMP:20260622T170000Z
+DTSTART:20260701T020000Z
+DTEND:20260701T030000Z
+SUMMARY:Calendar Feed Example Event
+DESCRIPTION:This is an example event. Update calendar.ics in the GitHub repository to publish changes.
+LOCATION:Online
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
