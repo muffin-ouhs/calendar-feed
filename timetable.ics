@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-06-22:1000:session-1-lecture-d41b71d9e7f89a02@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260622T100000
 DTEND;TZID=Asia/Shanghai:20260622T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-06-22:1400:tutorial-7e4d4871c442eb13@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260622T140000
 DTEND;TZID=Asia/Shanghai:20260622T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-06-23:1000:session-1-lecture-f1b00c42bf5a1895@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260623T100000
 DTEND;TZID=Asia/Shanghai:20260623T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -54,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-06-23:1400:tutorial-d08cfea45fd18a79@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260623T140000
 DTEND;TZID=Asia/Shanghai:20260623T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -68,38 +68,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-06-24:1000:lecture-8bb31c5c89581293@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260624T100000
 DTEND;TZID=Asia/Shanghai:20260624T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
 DESCRIPTION:Week 1. IT cohort delivery is online in Weeks 1-3\, then on c
- ampus.\nTeacher: Najam Nazar and Rui Zhang\nRoom: Online\nBeijing time: 
- 2026-06-24 10:00\nSource: https://learning.monash.edu/course/view.php?id
- =41392&section=2
-LOCATION:Online
+ ampus.\nTeacher: Najam Nazar and Rui Zhang\nDelivery: Online\nBeijing ti
+ me: 2026-06-24 10:00\nSource: https://learning.monash.edu/course/view.ph
+ p?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-06-24:1400:studio-/-tutorial-e480e5075fd5ef89@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260624T140000
 DTEND;TZID=Asia/Shanghai:20260624T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
  l
 DESCRIPTION:Week 1. Group 1-6 room allocation applies\; check your assign
- ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nRoom: Onli
- ne\nBeijing time: 2026-06-24 14:00\nSource: https://learning.monash.edu/
- course/view.php?id=41392&section=2
-LOCATION:Online
+ ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nDelivery: 
+ Online\nBeijing time: 2026-06-24 14:00\nSource: https://learning.monash.
+ edu/course/view.php?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-06-25:1000:group-2-lecture-5ac8f319a4770fb8@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260625T100000
 DTEND;TZID=Asia/Shanghai:20260625T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -113,7 +111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-06-25:1500:lab-/-tutorial-a1f6749e2a5ad826@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260625T150000
 DTEND;TZID=Asia/Shanghai:20260625T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -127,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-06-29:1000:session-1-lecture-d778bb527a7ab7e2@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260629T100000
 DTEND;TZID=Asia/Shanghai:20260629T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -141,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-06-29:1400:tutorial-36f4bc1b6fb84309@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260629T140000
 DTEND;TZID=Asia/Shanghai:20260629T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -155,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-06-30:1000:session-1-lecture-45f0a7a3c578a9db@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260630T100000
 DTEND;TZID=Asia/Shanghai:20260630T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -170,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-06-30:1400:tutorial-fb49157b3c5507ce@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260630T140000
 DTEND;TZID=Asia/Shanghai:20260630T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -184,38 +182,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-01:1000:lecture-18338c50fdd45528@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260701T100000
 DTEND;TZID=Asia/Shanghai:20260701T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
 DESCRIPTION:Week 2. IT cohort delivery is online in Weeks 1-3\, then on c
- ampus.\nTeacher: Najam Nazar and Rui Zhang\nRoom: Online\nBeijing time: 
- 2026-07-01 10:00\nSource: https://learning.monash.edu/course/view.php?id
- =41392&section=2
-LOCATION:Online
+ ampus.\nTeacher: Najam Nazar and Rui Zhang\nDelivery: Online\nBeijing ti
+ me: 2026-07-01 10:00\nSource: https://learning.monash.edu/course/view.ph
+ p?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-01:1400:studio-/-tutorial-854f4ed456d82e0b@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260701T140000
 DTEND;TZID=Asia/Shanghai:20260701T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
  l
 DESCRIPTION:Week 2. Group 1-6 room allocation applies\; check your assign
- ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nRoom: Onli
- ne\nBeijing time: 2026-07-01 14:00\nSource: https://learning.monash.edu/
- course/view.php?id=41392&section=2
-LOCATION:Online
+ ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nDelivery: 
+ Online\nBeijing time: 2026-07-01 14:00\nSource: https://learning.monash.
+ edu/course/view.php?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-02:1000:group-2-lecture-a7203b9561452e2e@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260702T100000
 DTEND;TZID=Asia/Shanghai:20260702T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -229,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-02:1500:lab-/-tutorial-0ae78e254a5f9044@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260702T150000
 DTEND;TZID=Asia/Shanghai:20260702T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -243,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-06:1000:session-1-lecture-0e067e4f02c7ae1a@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260706T100000
 DTEND;TZID=Asia/Shanghai:20260706T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -257,7 +253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-06:1400:tutorial-a8f013df03eefe92@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260706T140000
 DTEND;TZID=Asia/Shanghai:20260706T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -271,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-07:1000:session-1-lecture-7ce8b325861f8902@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260707T100000
 DTEND;TZID=Asia/Shanghai:20260707T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -286,7 +282,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-07:1400:tutorial-2f3623cf452256b0@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260707T140000
 DTEND;TZID=Asia/Shanghai:20260707T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -300,38 +296,36 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-08:1000:lecture-6cbb02fb7f5596fb@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260708T100000
 DTEND;TZID=Asia/Shanghai:20260708T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
 DESCRIPTION:Week 3. IT cohort delivery is online in Weeks 1-3\, then on c
- ampus.\nTeacher: Najam Nazar and Rui Zhang\nRoom: Online\nBeijing time: 
- 2026-07-08 10:00\nSource: https://learning.monash.edu/course/view.php?id
- =41392&section=2
-LOCATION:Online
+ ampus.\nTeacher: Najam Nazar and Rui Zhang\nDelivery: Online\nBeijing ti
+ me: 2026-07-08 10:00\nSource: https://learning.monash.edu/course/view.ph
+ p?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-08:1400:studio-/-tutorial-ac9e6e40c7179b6c@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260708T140000
 DTEND;TZID=Asia/Shanghai:20260708T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
  l
 DESCRIPTION:Week 3. Group 1-6 room allocation applies\; check your assign
- ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nRoom: Onli
- ne\nBeijing time: 2026-07-08 14:00\nSource: https://learning.monash.edu/
- course/view.php?id=41392&section=2
-LOCATION:Online
+ ed room.\nTeacher: Najam Nazar\, Rui Zhang and teaching team\nDelivery: 
+ Online\nBeijing time: 2026-07-08 14:00\nSource: https://learning.monash.
+ edu/course/view.php?id=41392&section=2
 STATUS:CONFIRMED
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-09:1000:group-2-lecture-87af7999d804a6b8@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260709T100000
 DTEND;TZID=Asia/Shanghai:20260709T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -345,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-09:1500:lab-/-tutorial-72ec5623af18082e@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260709T150000
 DTEND;TZID=Asia/Shanghai:20260709T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -359,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-13:1000:session-1-lecture-ebe93b7317ec02f9@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260713T100000
 DTEND;TZID=Asia/Shanghai:20260713T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -373,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-13:1400:tutorial-5992ea0bc4811366@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260713T140000
 DTEND;TZID=Asia/Shanghai:20260713T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -387,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-14:1000:session-1-lecture-c4c3aec951195e45@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260714T100000
 DTEND;TZID=Asia/Shanghai:20260714T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -402,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-14:1400:tutorial-efae37f435207c2a@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260714T140000
 DTEND;TZID=Asia/Shanghai:20260714T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -416,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-15:1000:lecture-b4cccdd158d87cab@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260715T100000
 DTEND;TZID=Asia/Shanghai:20260715T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
@@ -431,7 +425,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-15:1400:studio-/-tutorial-0e7d2cabb7826f37@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260715T140000
 DTEND;TZID=Asia/Shanghai:20260715T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
@@ -447,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-16:1000:group-2-lecture-40ebf1eb100387b0@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260716T100000
 DTEND;TZID=Asia/Shanghai:20260716T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -461,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-16:1500:lab-/-tutorial-c1e8e0ef3e20e0e7@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260716T150000
 DTEND;TZID=Asia/Shanghai:20260716T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -475,7 +469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-20:1000:session-1-lecture-efffd0162857e750@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260720T100000
 DTEND;TZID=Asia/Shanghai:20260720T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -489,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-20:1400:tutorial-d5b48e48a15576e9@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260720T140000
 DTEND;TZID=Asia/Shanghai:20260720T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -503,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-21:1000:session-1-lecture-87ae6a0c6f52377d@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260721T100000
 DTEND;TZID=Asia/Shanghai:20260721T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -518,7 +512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-21:1400:tutorial-48e8b15401f58c95@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260721T140000
 DTEND;TZID=Asia/Shanghai:20260721T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -532,7 +526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-22:1000:lecture-1a52ad3a33aafa01@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260722T100000
 DTEND;TZID=Asia/Shanghai:20260722T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
@@ -547,7 +541,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-22:1400:studio-/-tutorial-f4812bc7a347931c@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260722T140000
 DTEND;TZID=Asia/Shanghai:20260722T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
@@ -563,7 +557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-23:1000:group-2-lecture-d1059ec21403fbdf@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260723T100000
 DTEND;TZID=Asia/Shanghai:20260723T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -577,7 +571,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-23:1500:lab-/-tutorial-d1c0d68bd4d2bddf@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260723T150000
 DTEND;TZID=Asia/Shanghai:20260723T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -591,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-27:1000:session-1-lecture-29333938bab6ac56@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260727T100000
 DTEND;TZID=Asia/Shanghai:20260727T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -605,7 +599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-07-27:1400:tutorial-f37b4c9b87ac2bb7@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260727T140000
 DTEND;TZID=Asia/Shanghai:20260727T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -619,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-28:1000:session-1-lecture-ab9000337203fb6e@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260728T100000
 DTEND;TZID=Asia/Shanghai:20260728T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -634,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-07-28:1400:tutorial-194307fd584f1de8@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260728T140000
 DTEND;TZID=Asia/Shanghai:20260728T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -648,7 +642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-29:1000:lecture-3a5ee686f5fe4b98@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260729T100000
 DTEND;TZID=Asia/Shanghai:20260729T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
@@ -663,7 +657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-07-29:1400:studio-/-tutorial-15bb2aa02e1cdcc9@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260729T140000
 DTEND;TZID=Asia/Shanghai:20260729T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
@@ -679,7 +673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-30:1000:group-2-lecture-46ae53896b5c441c@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260730T100000
 DTEND;TZID=Asia/Shanghai:20260730T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -693,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-07-30:1500:lab-/-tutorial-f9cf98af1083097f@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260730T150000
 DTEND;TZID=Asia/Shanghai:20260730T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -707,7 +701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-08-03:1000:session-1-lecture-1737cc4466136f7e@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260803T100000
 DTEND;TZID=Asia/Shanghai:20260803T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -721,7 +715,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-08-03:1400:tutorial-bd1136c5018cb6f7@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260803T140000
 DTEND;TZID=Asia/Shanghai:20260803T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -735,7 +729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-08-04:1000:session-1-lecture-b958dbd186e2c9f1@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260804T100000
 DTEND;TZID=Asia/Shanghai:20260804T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -750,7 +744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-08-04:1400:tutorial-2c14f2d277bf858e@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260804T140000
 DTEND;TZID=Asia/Shanghai:20260804T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -764,7 +758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-08-05:1000:lecture-8f2ebd7a7470e5c5@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260805T100000
 DTEND;TZID=Asia/Shanghai:20260805T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
@@ -779,7 +773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-08-05:1400:studio-/-tutorial-11d6122d98a57c10@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260805T140000
 DTEND;TZID=Asia/Shanghai:20260805T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
@@ -795,7 +789,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-08-06:1000:group-2-lecture-2600f3b6816eff03@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260806T100000
 DTEND;TZID=Asia/Shanghai:20260806T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -809,7 +803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-08-06:1500:lab-/-tutorial-36a4b8f77f09c5d5@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260806T150000
 DTEND;TZID=Asia/Shanghai:20260806T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
@@ -823,7 +817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-08-10:1000:session-1-lecture-13dcc6b60a07ec21@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260810T100000
 DTEND;TZID=Asia/Shanghai:20260810T120000
 SUMMARY:FIT5225 Cloud computing and security: Session 1 lecture
@@ -837,7 +831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5225:timetable:2026-08-10:1400:tutorial-ebea4ff133c23f3e@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260810T140000
 DTEND;TZID=Asia/Shanghai:20260810T160000
 SUMMARY:FIT5225 Cloud computing and security: Tutorial
@@ -851,7 +845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-08-11:1000:session-1-lecture-b9cfc39d29794915@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260811T100000
 DTEND;TZID=Asia/Shanghai:20260811T120000
 SUMMARY:FIT5032 Internet applications development: Session 1 lecture
@@ -866,7 +860,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5032:timetable:2026-08-11:1400:tutorial-64b603d5ed0c4c60@muffin-ou
  hs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260811T140000
 DTEND;TZID=Asia/Shanghai:20260811T160000
 SUMMARY:FIT5032 Internet applications development: Tutorial
@@ -880,7 +874,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-08-12:1000:lecture-e996917429d1184d@muffin-ouh
  s.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260812T100000
 DTEND;TZID=Asia/Shanghai:20260812T120000
 SUMMARY:FIT5238 Information technology systems capstone: Lecture
@@ -895,7 +889,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5238:timetable:2026-08-12:1400:studio-/-tutorial-15c7400f11214b2c@
  muffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260812T140000
 DTEND;TZID=Asia/Shanghai:20260812T160000
 SUMMARY:FIT5238 Information technology systems capstone: Studio / tutoria
@@ -911,7 +905,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-08-13:1000:group-2-lecture-de61c943efa8e8c8@mu
  ffin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260813T100000
 DTEND;TZID=Asia/Shanghai:20260813T120000
 SUMMARY:FIT5037 Network security: Group 2 lecture
@@ -925,7 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:FIT5037:timetable:2026-08-13:1500:lab-/-tutorial-2cdf7617fb5a73ef@muf
  fin-ouhs.github.io
-DTSTAMP:20260624T115216Z
+DTSTAMP:20260624T115850Z
 DTSTART;TZID=Asia/Shanghai:20260813T150000
 DTEND;TZID=Asia/Shanghai:20260813T170000
 SUMMARY:FIT5037 Network security: Lab / tutorial
