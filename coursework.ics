@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//muffin-ouhs//Monash PA//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Monash T3 2026 Coursework
+X-WR-CALDESC:Confirmed coursework deadlines in Beijing time
+X-WR-TIMEZONE:Asia/Shanghai
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FIT5032:coursework:assessed-lab-1:2026-07-01T23:55-1dd0f7eafa7d7c65@m
+ uffin-ouhs.github.io
+DTSTAMP:20260624T115216Z
+DTSTART;TZID=Asia/Shanghai:20260701T235500
+SUMMARY:FIT5032 Internet applications development: Assessed Lab 1 due
+DESCRIPTION:Submit Assessed Lab 1. Moodle status recorded on 2026-06-24: 
+ no submission.\nBeijing time: 2026-07-01 23:55\nSource: https://learning
+ .monash.edu/mod/assign/view.php?id=5561310
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
