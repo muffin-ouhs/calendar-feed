@@ -11,7 +11,7 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:FIT5032:coursework:assessed-lab-1:2026-07-01T23:55-1dd0f7eafa7d7c65@m
  uffin-ouhs.github.io
-DTSTAMP:20260624T115850Z
+DTSTAMP:20260624T120116Z
 DTSTART;TZID=Asia/Shanghai:20260701T235500
 SUMMARY:FIT5032 Internet applications development: Assessed Lab 1 due
 DESCRIPTION:Submit Assessed Lab 1. Moodle status recorded on 2026-06-24: 
