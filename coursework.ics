@@ -11,71 +11,74 @@ X-PUBLISHED-TTL:PT1H
 BEGIN:VTODO
 UID:FIT5032:coursework:assessed-lab-1:2026-07-01T23:55-1dd0f7eafa7d7c65@m
  uffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260701T235500
 SUMMARY:FIT5032 Internet applications development: Assessed Lab 1 due
-DESCRIPTION:Submit Assessed Lab 1. Moodle status observed on 2026-06-28: 
- no submission.\nBeijing due: 2026-07-01 23:55\nSource: https://learning.
- monash.edu/mod/assign/view.php?id=5561310
+DESCRIPTION:Submit Assessed Lab 1. Moodle task tracker observed on 2026-0
+ 6-29: due item still visible and Add submission link shown.\nBeijing due
+ : 2026-07-01 23:55\nSource: https://learning.monash.edu/mod/assign/view.
+ php?id=5561310
 STATUS:NEEDS-ACTION
-SEQUENCE:1
+SEQUENCE:2
 END:VTODO
 BEGIN:VTODO
 UID:FIT5238:coursework:feasibility-section:2026-07-02T01:55-17163bc68ac2b
  fd1@muffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260702T015500
 SUMMARY:FIT5238 Information technology systems capstone: Business Report:
   Feasibility Section due
-DESCRIPTION:Group 17 formative feedback task. Moodle status observed on 2
- 026-06-28: nothing submitted.\nBeijing due: 2026-07-02 01:55\nSource: ht
- tps://learning.monash.edu/mod/assign/view.php?id=5373768
+DESCRIPTION:Group 17 formative feedback task. Moodle task tracker observe
+ d on 2026-06-29: due item still visible and Add submission link shown.\n
+ Beijing due: 2026-07-02 01:55\nSource: https://learning.monash.edu/mod/a
+ ssign/view.php?id=5373768
 STATUS:NEEDS-ACTION
-SEQUENCE:0
+SEQUENCE:1
 END:VTODO
 BEGIN:VTODO
 UID:FIT5238:coursework:technical-application-plan:2026-07-11T01:55-fba56d
  e613086e28@muffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260711T015500
 SUMMARY:FIT5238 Information technology systems capstone: Business Report:
   Technical Application Plan due
-DESCRIPTION:Group 17 assessment task. Moodle status observed on 2026-06-2
- 8: nothing submitted.\nBeijing due: 2026-07-11 01:55\nSource: https://le
- arning.monash.edu/mod/assign/view.php?id=5373769
+DESCRIPTION:Group 17 assessment task. Moodle task tracker observed on 202
+ 6-06-29: due item still visible.\nBeijing due: 2026-07-11 01:55\nSource:
+  https://learning.monash.edu/mod/assign/view.php?id=5373769
 STATUS:NEEDS-ACTION
-SEQUENCE:0
+SEQUENCE:1
 END:VTODO
 BEGIN:VTODO
 UID:FIT5238:coursework:ethical-quality-considerations:2026-07-15T01:55-e0
  fb91d09b7f69cc@muffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260715T015500
 SUMMARY:FIT5238 Information technology systems capstone: Business Report:
   Ethical and Quality Considerations due
-DESCRIPTION:Group 17 assessment task. Moodle status observed on 2026-06-2
- 8: nothing submitted.\nBeijing due: 2026-07-15 01:55\nSource: https://le
- arning.monash.edu/mod/assign/view.php?id=5373770
+DESCRIPTION:Group 17 assessment task. Moodle task tracker observed on 202
+ 6-06-29: due item still visible.\nBeijing due: 2026-07-15 01:55\nSource:
+  https://learning.monash.edu/mod/assign/view.php?id=5373770
 STATUS:NEEDS-ACTION
-SEQUENCE:0
+SEQUENCE:1
 END:VTODO
 BEGIN:VTODO
 UID:FIT5238:coursework:presentation-content:2026-07-16T01:55-5bbeb20e5dfd
  4e3b@muffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260716T015500
 SUMMARY:FIT5238 Information technology systems capstone: Presentation/Pit
  ch content due
-DESCRIPTION:Group 17 presentation content task. Moodle status observed on
-  2026-06-28: nothing submitted.\nBeijing due: 2026-07-16 01:55\nSource: 
- https://learning.monash.edu/mod/assign/view.php?id=5373771
+DESCRIPTION:Group 17 presentation content task. Moodle task tracker obser
+ ved on 2026-06-29: due item still visible and Add submission link shown.
+ \nBeijing due: 2026-07-16 01:55\nSource: https://learning.monash.edu/mod
+ /assign/view.php?id=5373771
 STATUS:NEEDS-ACTION
-SEQUENCE:0
+SEQUENCE:1
 END:VTODO
 BEGIN:VTODO
 UID:FIT5238:coursework:peer-evaluation-week-4:2026-07-20T01:55-0915393808
  90acaa@muffin-ouhs.github.io
-DTSTAMP:20260627T191714Z
+DTSTAMP:20260628T181747Z
 DUE;TZID=Asia/Shanghai:20260720T015500
 SUMMARY:FIT5238 Information technology systems capstone: Peer Evaluation 
  Week 4 due
